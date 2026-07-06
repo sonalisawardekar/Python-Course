@@ -1,0 +1,16 @@
+Algorithm: Check Whether a Number is Even or Odd
+
+Step 1: Start
+
+Step 2: Declare a variable num.
+
+Step 3: Read the value of num.
+
+Step 4: Find the remainder when num is divided by 2.
+
+remainder ← num % 2
+
+Step 5: If remainder = 0, display "Even Number".
+Otherwise, display "Odd Number".
+
+Step 6: Stop
